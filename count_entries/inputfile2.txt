@@ -1,0 +1,4 @@
+ITALY               ROME               
+GERMANY             BERLIN             
+FRANCE              PARIS              
+SPAIN               MADRID             

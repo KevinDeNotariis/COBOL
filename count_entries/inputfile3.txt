@@ -1,0 +1,5 @@
+MATTIA              3CAT                
+JAMES               1DOG                
+ALEXA               2REDFISH
+JOHN                0                   
+CARLOS              5LIZARD

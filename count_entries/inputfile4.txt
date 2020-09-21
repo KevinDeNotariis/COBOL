@@ -1,0 +1,6 @@
+DIRAC               DIRAC'S EQUATION                        1928
+MAXWELL             MAXWELL'S EQUATIONS                     1861
+NEWTON              NEWTON'S LAWS OF MOTION AND GRAVITATION 1687
+TURING              FIRST COMPUTER                          1936
+MALDACENA           ADS/CFT DUALITY                         1997
+HIGGS               HIGGS' BOSON                            1964
